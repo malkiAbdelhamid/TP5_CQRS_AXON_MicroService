@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core-api/core-api.iml" filepath="$PROJECT_DIR$/core-api/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-command-library/ms-command-library.iml" filepath="$PROJECT_DIR$/ms-command-library/ms-command-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-query-library/ms-query-library.iml" filepath="$PROJECT_DIR$/ms-query-library/ms-query-library.iml" />
+    </modules>
+  </component>
+</project>
